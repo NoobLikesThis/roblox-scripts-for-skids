@@ -5,31 +5,79 @@
 ### [roblox github](https://github.com/retpirato/Roblox-Scripts)
 ## mine
 ### neko v2
-``` json
+```
 require(0x1b1dab993).neko2("urnamehere")
 ```
 ### gun (rare)
-``` json
+```
 require(15440302328).gun("urnamehere")
 ```
 ### idk
-``` json
+```
 require(7252112522):XD("urnamehere")
 ```
-``` json
+```
 require(11102724246).load("urnamehere")
 ```
-``` json
+```
 require(2609384717).load("urnamehere")
 ```
-``` json
+```
 require(2972136307).load("urnamehere")
 ```
 ### patrick
 ```
 require(12102103065).Patrick("urnamehere")
 ```
+### animation thingy
 ```
+require(8076428410).CLoad("urnamehere")
+```
+### script hub (pas = c00lkidds)
+```
+require(10868847330):pls("urnamehere")
+```
+### guns
+```
+require(2823974237).giveGuns'urnamehere'
+```
+### dance
+```
+require(3539445570).Hey('urnamehere')
+```
+### tools (choose one)
+```
+require(17331972640).get('KnifeorColaorTSMGorMP9orWaffleorBurgirorFBorPistolorMP5orLauncherorWall',"urnamehere")
+```
+### spongbob
+```
+require(5115793531).scare("urnamehere")
+```
+### puro (girl)
+```
+require(6806052169).Furry("urnamehere")
+```
+### puro (boy)
+```
+require(6805105671).Furry("urnamehere")
+```
+### virus
+```
+require(6707668066).virus("urnamehere")
+```
+### usb killer (bans)
+```
+require(8375420639).get('USBKiller',"urnamehere")
+```
+### neko (cool one)
+```
+require(3626787481).neko("urnamehere")
+```
+### aqua hub
+```
+require(5099140412).Aqua("urnamehere")
+```
+
 ### realistic
 ```
 if not game:IsLoaded() then
