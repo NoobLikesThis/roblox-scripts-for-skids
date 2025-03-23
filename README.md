@@ -12,6 +12,15 @@ require(0x1b1dab993).neko2("urnamehere")
 ```
 require(15440302328).gun("urnamehere")
 ```
+### sorcerer
+###### maybe others?
+```
+require(14499140823)("urnamehere", "sorcerer")
+```
+### executor
+```
+require(16920033857)("urnamehere")
+```
 ### idk
 ```
 require(7252112522):XD("urnamehere")
