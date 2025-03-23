@@ -12,6 +12,12 @@ require(0x1b1dab993).neko2("urnamehere")
 ```
 require(15440302328).gun("urnamehere")
 ```
+### camila
+##### also best for making sfw neko scripts
+###### [link](https://create.roblox.com/store/asset/7108075132/Camila)
+```
+require(7108075132).Camila("urnamehere")
+```
 ### sorcerer
 ###### maybe others?
 ```
